@@ -1,6 +1,6 @@
-﻿using PW1.Models;
+﻿using LW1.Models;
 
-namespace PW1.Repository
+namespace LW1.Repository
 {
     internal class DBItem<T> where T : IEntity
     {

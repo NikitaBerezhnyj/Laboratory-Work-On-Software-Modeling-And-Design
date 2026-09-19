@@ -1,7 +1,7 @@
-﻿using PW1.Models;
-using PW1.Repository;
+﻿using LW1.Models;
+using LW1.Repository;
 
-namespace PW1.Services
+namespace LW1.Services
 {
     internal class StoreService
     {

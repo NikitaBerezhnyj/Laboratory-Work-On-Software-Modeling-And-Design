@@ -1,4 +1,4 @@
-﻿namespace PW1.Models
+﻿namespace LW1.Models
 {
     internal interface IEntity
     {
