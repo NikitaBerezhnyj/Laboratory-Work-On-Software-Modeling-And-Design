@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DSC3AQT1DvM=",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW3\\LW3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
