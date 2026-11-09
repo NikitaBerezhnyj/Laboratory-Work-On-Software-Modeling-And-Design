@@ -11,12 +11,9 @@ namespace LW3.Application.Services
             _productRepository = productRepository;
         }
 
-        public int GetStockQuantity(Guid productId)
+        public int? GetStockQuantity(Guid productId)
         {
-            var product = _productRepository.GetById(productId)
-                ?? throw new InvalidOperationException("Product not found.");
-
-            return product.Quantity;
+            return _productRepository.GetById(productId)?.Quantity;
         }
 
         public bool IsAvailable(Guid productId, int quantity)
