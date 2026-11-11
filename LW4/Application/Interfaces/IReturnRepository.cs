@@ -1,0 +1,12 @@
+﻿using LW4.Domain.Entities;
+
+namespace LW4.Application.Interfaces
+{
+    public interface IReturnRepository
+    {
+        IEnumerable<SaleReturn> GetAll();
+        SaleReturn? GetById(Guid id);
+        IEnumerable<SaleReturn> GetBySaleId(Guid saleId);
+        void Add(SaleReturn saleReturn);
+    }
+}
