@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\presentation\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:presentation\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\domain\\enums\\employeerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:domain\\enums\\employeerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\domain\\entities\\salereturnitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:domain\\entities\\salereturnitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\application\\services\\returnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:application\\services\\returnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\infrastructure\\repositories\\returnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:infrastructure\\repositories\\returnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\application\\interfaces\\ireturnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:application\\interfaces\\ireturnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\domain\\entities\\salereturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:domain\\entities\\salereturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\application\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:application\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\application\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:application\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\application\\services\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:application\\services\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\application\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:application\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\infrastructure\\repositories\\purchaseorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:infrastructure\\repositories\\purchaseorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\infrastructure\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:infrastructure\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\infrastructure\\repositories\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:infrastructure\\repositories\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\application\\interfaces\\ipurchaseorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:application\\interfaces\\ipurchaseorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\application\\interfaces\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:application\\interfaces\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\application\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:application\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\application\\interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:application\\interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:application\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\domain\\entities\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:domain\\entities\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\domain\\entities\\purchaseorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:domain\\entities\\purchaseorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\domain\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:domain\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:domain\\entities\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\domain\\entities\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:domain\\entities\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|c:\\workspace\\education\\laboratory-work-on-software-modeling-and-design\\LW5\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4FF011-63F4-4143-8280-835B4E678E97}|LW5.csproj|solutionrelative:domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReturnService.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\ReturnService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ReturnService.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\ReturnService.cs",
+              "RelativeToolTip": "Application\\Services\\ReturnService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:02:20.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleMenu.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Presentation\\ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "Presentation\\ConsoleMenu.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Presentation\\ConsoleMenu.cs",
+              "RelativeToolTip": "Presentation\\ConsoleMenu.cs",
+              "ViewState": "AgIAAIUCAAAAAAAAAAAwwJ4CAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:58:32.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:37:11.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaleReturnItem.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\SaleReturnItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\SaleReturnItem.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\SaleReturnItem.cs",
+              "RelativeToolTip": "Domain\\Entities\\SaleReturnItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:01:11.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:49:10.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRole.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Enums\\EmployeeRole.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\EmployeeRole.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Enums\\EmployeeRole.cs",
+              "RelativeToolTip": "Domain\\Enums\\EmployeeRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:38:14.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:38:21.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:33:57.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReturnRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Infrastructure\\Repositories\\ReturnRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ReturnRepository.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Infrastructure\\Repositories\\ReturnRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ReturnRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:02:02.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReturnRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Interfaces\\IReturnRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IReturnRepository.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Interfaces\\IReturnRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IReturnRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:01:45.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaleReturn.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\SaleReturn.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\SaleReturn.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\SaleReturn.cs",
+              "RelativeToolTip": "Domain\\Entities\\SaleReturn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:01:27.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\SupplierService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\SupplierService.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\SupplierService.cs",
+              "RelativeToolTip": "Application\\Services\\SupplierService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:50:50.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\ReportService.cs",
+              "RelativeToolTip": "Application\\Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:50:36.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:50:19.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SalesService.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\SalesService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\SalesService.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\SalesService.cs",
+              "RelativeToolTip": "Application\\Services\\SalesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:50:02.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Application\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:49:45.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\InventoryService.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Services\\InventoryService.cs",
+              "RelativeToolTip": "Application\\Services\\InventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:49:30.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PurchaseOrderRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Infrastructure\\Repositories\\PurchaseOrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\PurchaseOrderRepository.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Infrastructure\\Repositories\\PurchaseOrderRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\PurchaseOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:48:41.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Infrastructure\\Repositories\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\SupplierRepository.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Infrastructure\\Repositories\\SupplierRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\SupplierRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:48:20.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:48:00.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SaleRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Infrastructure\\Repositories\\SaleRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\SaleRepository.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Infrastructure\\Repositories\\SaleRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\SaleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:47:35.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:47:03.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPurchaseOrderRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Interfaces\\IPurchaseOrderRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IPurchaseOrderRepository.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Interfaces\\IPurchaseOrderRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IPurchaseOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:46:21.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ISupplierRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Interfaces\\ISupplierRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ISupplierRepository.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Interfaces\\ISupplierRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ISupplierRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:46:06.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:45:51.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ISaleRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Interfaces\\ISaleRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ISaleRepository.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Interfaces\\ISaleRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ISaleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:45:35.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Application\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:45:20.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PurchaseOrderItem.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\PurchaseOrderItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PurchaseOrderItem.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\PurchaseOrderItem.cs",
+              "RelativeToolTip": "Domain\\Entities\\PurchaseOrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:38:05.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PurchaseOrder.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\PurchaseOrder.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PurchaseOrder.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\PurchaseOrder.cs",
+              "RelativeToolTip": "Domain\\Entities\\PurchaseOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:37:57.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SaleItem.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\SaleItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\SaleItem.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\SaleItem.cs",
+              "RelativeToolTip": "Domain\\Entities\\SaleItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:37:49.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\Sale.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Sale.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\Sale.cs",
+              "RelativeToolTip": "Domain\\Entities\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:37:40.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Supplier.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\Supplier.cs",
+              "RelativeToolTip": "Domain\\Entities\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:37:32.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Workspace\\Education\\Laboratory-Work-On-Software-Modeling-And-Design\\LW5\\Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:37:23.853Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
